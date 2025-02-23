@@ -1,0 +1,2 @@
+(this.webpackJsonpdineli=this.webpackJsonpdineli||[]).push([[71],{832:function(e,t,c){"use strict";c.r(t);var i=c(2),s=c(19),n=c(23),a=c(181),r=c(1);t.default=()=>{const e=Object(s.d)(),{verificationString:t}=Object(n.useParams)();return Object(i.useEffect)((()=>{t&&""!==t&&e(Object(a.a)(t))}),[e,t]),Object(r.jsx)(r.Fragment,{})}}}]);
+//# sourceMappingURL=71.70cff4ff.chunk.js.map

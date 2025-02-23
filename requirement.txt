@@ -1,0 +1,7 @@
+Requirement for this project 
+
+Nodejs v16.20.2
+npmJS  8.19.4
+
+
+Use Yarn as the package manager

@@ -1,0 +1,7 @@
+export const rpcURL = "https://sepolia.infura.io/v3/768481c8f4624458a24a4f1eb6f4fe88"
+export const SEPOLIA_FACTORY_ADDRESS = "0x861309fe0b24236082ed414eeabdb40711dcbf32"
+export const SEPOLIA_BRIDGE_ADDRESS = "0x79e8c6dbc8ae0f0ee13e5121cbaae63a7ab0c188"
+export const GNOSIS_BRIDGE_ADDRESS = "0x79e8c6dbc8ae0f0ee13e5121cbaae63a7ab0c188"
+export const GNOSIS_FACTORY_ADDRESS = "0x861309fe0b24236082ed414eeabdb40711dcbf32"
+export const MAIN_ADDRESS = ""
+export const PRIVATE_KEY = "422b00565c6d382ff1e0673b26516a4f2401f76395b31fb5e203e2b91d4def19"

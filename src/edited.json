@@ -1,0 +1,44 @@
+{
+    "footer": {
+        "en": {
+            "content1": "This site is operated by eSTOKK Defi ,Inc, which is not a registered broker-dealer or investment advisor. eSTOKK Defi does not give investment advice, endorsement, analysis or recommendations with respect to any securities. Nothing on this website should be construed as an offer to sell, solicitation of an offer to buy or a recommendation for any security by eSTOKK Defi Inc or any third party. You are solely responsible for determining whether any investment, investment strategy, security or related transaction is appropriate for you based on your personal investment objectives, financial circumstances and risk tolerance. You should consult with licensed legal professionals and investment advisors for any legal, tax, insurance or investment advice. All securities listed here are being offered by, and all information included on this site is the responsibility of, the applicable issuer of such securities. eSTOKK Defi Inc does not guarantee any investment performance, outcome or return of capital for any investment opportunity posted on this site. By accessing this site and any pages thereof, you agree to be bound by the Terms of Service and Privacy Policy.",
+            "content2": "Past performance is no guarantee of future results. Any historical returns, expected returns, or probability projections may not reflect actual future performance. All investments involve risk and may result in partial or total loss. While the data we use from third parties is believed to be reliable, we cannot ensure the accuracy or completeness of data provided by sellers or other third parties. Neither eSTOKK Defi, Inc nor any of its affiliates provide tax advice and do not represent in any manner that the outcomes described herein will result in any particular tax consequence. Prospective investors should confer with their personal tax advisors regarding the tax consequences based on their particular circumstances. Neither eSTOKK Defi, Inc nor any of its affiliates assume responsibility for the tax consequences for any investor of any investment."
+        },
+        "rus": {
+            "content1": "Этот веб-сайт и его содержимое, а также любая информация, отображаемая или связанная с сайтами социальных сетей Токизед, не является предложением или приглашением к покупке или продаже ценных бумаг и не является инвестиционным советом. Токизед не несет ответственности за какие-либо инвестиционные решения своих участников или подписчиков. Настоятельно рекомендуется обсуждать любое решение о покупке или продаже с финансовым консультантом, брокером-дилером или членом любого финансового регулирующего органа. Инвесторов предупреждают, что они могут потерять все или часть своих инвестиций в эту или любую другую компанию.",
+            "content2": "Этот веб-сайт и его содержимое, а также любая информация, отображаемая или связанная с сайтами социальных сетей Токизед, может содержать прогнозы или другие прогнозные заявления относительно будущих событий, целей, прогнозов или ожиданий в отношении описанных на нем стратегий и является актуальной только на дата указана. Нет никакой гарантии, что такие события или цели будут достигнуты, и вам не следует чрезмерно полагаться на такие заявления, поскольку фактические результаты могут существенно отличаться из-за последующих рыночных событий или других событий. Прошлые результаты не являются гарантией будущих результатов. Информация представлена ​​на дату представления, и Токизед не обязуется сообщать вам о каких-либо изменениях или предоставлять какие-либо обновления такой информации."
+        },
+        "zh": {
+            "content1": "本網站及其內容，以及 标记化 社交媒體網站上顯示或鏈接的任何信息，不是買賣證券的要約或邀請，也不構成投資建議。 标记化 對其會員或訂閱者的任何投資決定不承擔任何責任。強烈建議與財務顧問、經紀自營商或任何金融監管機構的成員討論任何購買或出售決定。投資者請注意，他們可能會失去對這家公司或任何其他公司的全部或部分投資。",
+            "content2": "本網站及其內容，以及 标记化 社交媒體網站上顯示或鏈接的任何信息，可能包含關於未來事件、目標、預測或預期的預測或其他前瞻性陳述，這些信息僅在截至日期表示。無法保證此類事件或目標會實現，您不應過分依賴此類聲明，因為實際結果可能會因隨後的市場事件或其他發展而有很大差異。過去的表現並不能保證未來的表現。該信息截至提供之日，标记化的 不承諾通知您任何更改或提供此類信息的任何更新。"
+        }
+    },
+    "en": {
+        "dashboard": {
+            "welcomeTo":"Welcome to eSTOKK, Your source for eSTOKK real estate",
+            "desc": "Check out eSTOKK latest properties: eSTOKK Marketplace<br/>Please use the menu links to view your portfolio and manage your account.<br/>Need assistance? Please reach out to us via our chat below, or email us at: help@eSTOKK.immo"
+        },
+        "sellTokens":{
+            "desc1":"eSTOKK.immo will buy back your eSTOKKImmoTokens! This service is limited to $2000 per week.<br/>Token buyback requires eSTOKK.immo approval, and can take up to 10 business days.<br/>We appreciate your patience!"
+        }
+    },
+    "rus":{
+        "dashboard":{
+            "welcomeTo":"Добро пожаловать на eSTOKK.com, ваш источник токенизированной недвижимости",
+            "desc":"Ознакомьтесь с новейшими предложениями Токизед: торговая площадка Токизед Воспользуйтесь ссылками в меню, чтобы просмотреть свое портфолио и управлять своим аккаунтом. Нужна помощь? Свяжитесь с нами через чат ниже или напишите нам по адресу: help@eSTOKK.com."
+        },
+        "sellTokens":{
+            "desc1":"Динели выкупит ваши ДинелиТокены! Эта услуга ограничена $2000 в неделю.Обратный выкуп токенов требует одобрения Токизед и может занять до 10 рабочих дней.Мы ценим Ваше терпение!"
+        }
+    },
+    "zh":{
+        "dashboard":{
+
+            "welcomeTo":"歡迎來到 eSTOKK.com，您的代幣化房地產來源",
+            "desc":"查看 记号化d 的最新屬性：标记化市场 請使用菜單鏈接查看您的投資組合併管理您的帳戶。需要幫助？請通過下面的聊天與我們聯繫，或發送電子郵件至：help@eSTOKK.com。"
+        },
+        "sellTokens":{
+            "desc1":"s标记化 將回購您的 代币化代币！該服務每週限額為 2000 美元。\n 代幣回購需要 记号化d 批准，最多可能需要 10 個工作日。感謝您的耐心等待！"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+================title=============
+
+font: 72pt
+family: Myriad Pro
+line space: 60pt
+
+=============paragraph==============
+
+font: 36pt
+family: same
+line space: 48pt
