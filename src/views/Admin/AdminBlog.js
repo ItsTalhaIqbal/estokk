@@ -10,7 +10,7 @@ import { callGet } from "../../services/axios";
 
 const AdminBlog = props => {
 
-
+  let history =  useHistory();
   // const blogs = useSelector(state => state.blog.blogData);
 
   // console.log(blogs)
